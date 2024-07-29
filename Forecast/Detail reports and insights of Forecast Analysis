@@ -1,0 +1,22 @@
+⌨ Created a complete dashboard using Power BI, a Business Intelligence and Data Visualization application that translates data from multiple sources into interactive dashboards and offers us with valuable real-time insights.
+
+🎯 Objective:
+Create a Dashboard to analyze and forecast online sales.
+
+🔑 Key Insights:
+• Highest profit is recorded under the category of Technology whereas the lowest profit is identified in the Furniture category.
+• Among the different Top 5 Sub-Categories, Phones have the highest sales, followed by Chairs, Binders, Storage, and Accessories.
+• Cash On Delivery (COD) is the most used payment mode used by customers, whereas Online is the second most used payment mode, and Cards are the least used mode.
+• California is the top performing state, where Sales are highest.
+• Maximum number of sales were recorded in "Standard Class" shipment mode, whereas the fewest sales were identified in "Same Day Delivery" mode.
+• Office Supplies products have the highest sales but proportionately can't make enough profit. Instead, the products under the Technology category have made the highest profit.
+• Highest profit is recorded in October and December 2020, whereas, lowest profit is recorded in April 2020.
+
+📊 Forecasting of day-by-day sales for two years.
+
+⚒️ Tools used: 
+MS Excel: For initial data Cleaning and Preparation, use Pivot Table and Pivot Chart to summarize and sort out necessary features from the data.
+Power Bi: For Data Visualization and creating Interactive Dashboard.
+
+🎯 Project Key points: 
+Data Collection, Data Cleaning, Data Modeling and Visualization, Dashboard design and sharing insights.
