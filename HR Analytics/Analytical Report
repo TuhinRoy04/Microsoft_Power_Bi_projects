@@ -1,0 +1,20 @@
+⌨ Created a complete dashboard using Power BI, a Business Intelligence and Data Visualization application that translates data from multiple sources into interactive dashboards and offers us with valuable real-time insights.
+
+🎯 Objective:
+Create a Dashboard to analyze attrition rate by different parameters.
+
+🔑 Key Insights:
+• Highest attrition is identified in the age group of 26 to 35.
+• Those who have salary slab upto 5k are recorded highest attrition.
+• Employees who are working for upto 10 years are recorded in the highest attrition.
+• Total 1416 employees are in the company and their average monthly salary is 6517 with average age of 37. 
+• Sales Executive team has the highest attrition whereas Human Resources team has the lowest attrition.
+• Highest attrition is recorded among the employees whose job satisfaction level and work-life balance is also highest.
+• The employees who have the Life Science background also have the highest attrition.
+
+⚒️ Tools used: 
+MS Excel: For initial data Cleaning and Preparation, use Pivot Table and Pivot Chart to summarize and sort out necessary features from the data.
+Power Bi: For Data Visualization and creating Interactive Dashboard.
+
+🎯 Project Key points: 
+Data Collection, Data Cleaning, Data Modeling and Visualization, Dashboard design and sharing insights.
