@@ -13,7 +13,7 @@ Create a Dashboard to analyze attrition rate by different parameters.
 • The employees who have the Life Science background also have the highest attrition.
 
 ⚒️ Tools used: 
-MS Excel: For initial data Cleaning and Preparation, use Pivot Table and Pivot Chart to summarize and sort out necessary features from the data.
+MS Excel: For initial data Cleaning and Preparation.
 Power Bi: For Data Visualization and creating Interactive Dashboard.
 
 🎯 Project Key points: 
